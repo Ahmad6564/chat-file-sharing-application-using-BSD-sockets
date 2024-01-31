@@ -57,7 +57,19 @@ A single TCP server with three connected clients with each client having a diffe
 
 ![image](https://github.com/Ahmad6564/chat-file-sharing-application-using-BSD-sockets/assets/89437620/0ffdc8d0-5715-49cb-b226-b9c4f8aff469)
 
- This is all about Socket pogramming project in cpp.
+## Dependencies:
+- The code uses standard C++ libraries and does not have external dependencies.
+## License:
+This project is licensed under the MIT License, allowing you to use and modify the code for your purposes. Please see the LICENSE file for details.
+
+## Acknowledgments:
+- The project is designed to provide insights into wireless network topology design and routing algorithms.
+  Feel free to enhance this README to include specific details or instructions relevant to your use case.
+
+
+
+
+
 
 
 
